@@ -51,7 +51,7 @@ With the following software and hardware list you can run all code files present
 * Beginning C++ Game Programming [[Packt]](https://www.packtpub.com/game-development/beginning-c-game-programming?utm_source=github&utm_medium=repository&utm_campaign=9781786466198) [[Amazon]](https://www.amazon.com/dp/1786466198)
 
 ## Get to Know the Author
-**	John Horton** is a programming and gaming enthusiast based in the UK. He has a passion for writing apps, games, books, and blog articles. He is the founder of Game Code School.
+**John Horton** is a programming and gaming enthusiast based in the UK. He has a passion for writing apps, games, books, and blog articles. He is the founder of Game Code School.
 
 
 ## Other books by the authors
