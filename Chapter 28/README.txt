@@ -1,0 +1,1 @@
+As explained at the start of chapter 28 and 29 this code bundle is for the finished snake game not just the part built in chapter 28
