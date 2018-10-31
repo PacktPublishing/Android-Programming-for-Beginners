@@ -37,15 +37,15 @@ dialog.show(getSupportFragmentManager(), "");
 **Following is what you need for this book:**
 This book is for you if you are completely new to Java, Android, or programming and want to make Android applications. This book also acts as a refresher for those who already have experience of using Java on Android to advance their knowledge and make fast progress through the early projects.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-14).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-29).
 
 ### Software and Hardware List
 
 | Chapter  | Software and Hardware required        | OS required                        |
 | -------- | ------------------------------------  | -----------------------------------|
-| 1 to 30  | Android Studio (latest 3.x+)          | Windows, Mac OS X, and Linux (Any) |
+| 1 to 29  | Android Studio (latest 3.x+)          | Windows, Mac OS X, and Linux (Any) |
 
-### Related products <Other books you may enjoy>
+### Related products 
 * Learning Java by Building Android Games - Second Edition [[Packt]](https://www.packtpub.com/game-development/learning-java-building-android-games-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781785883262) [[Amazon]](https://www.amazon.com/dp/1784398853)
 
 * Beginning C++ Game Programming [[Packt]](https://www.packtpub.com/game-development/beginning-c-game-programming?utm_source=github&utm_medium=repository&utm_campaign=9781786466198) [[Amazon]](https://www.amazon.com/dp/1786466198)
