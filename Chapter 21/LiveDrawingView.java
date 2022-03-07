@@ -68,10 +68,6 @@ public class LiveDrawingView extends SurfaceView implements Runnable{
         mPaint = new Paint();
 
         // Initialize the particles and their systems
-
-        // Everything is ready to start
-        startNewDrawing();
-
     }
 
     // The user has just restarted
