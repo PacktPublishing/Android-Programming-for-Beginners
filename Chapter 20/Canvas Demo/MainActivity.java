@@ -32,14 +32,13 @@ public class MainActivity extends Activity {
                 heightInPixels,
                 Bitmap.Config.ARGB_8888);
 
-        // Initialize the Canvas and asociate it
+        // Initialize the Canvas and associate it
         // with the Bitmap to draw on
         myCanvas = new Canvas(myBlankBitmap);
 
         // Initialize the ImageView and the Paint
         myImageView = new ImageView(this);
         myPaint = new Paint();
-
 
         // Draw on the Bitmap
         // Wipe the Bitmap with a blue color
